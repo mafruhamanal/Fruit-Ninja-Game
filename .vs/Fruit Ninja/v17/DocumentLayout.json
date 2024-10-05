@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mafru\\Fruit Ninja\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15D93A24-E61E-7E28-E752-4471B5F095ED}|Assembly-CSharp.csproj|c:\\users\\mafru\\fruit ninja\\assets\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D93A24-E61E-7E28-E752-4471B5F095ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15D93A24-E61E-7E28-E752-4471B5F095ED}|Assembly-CSharp.csproj|c:\\users\\mafru\\fruit ninja\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15D93A24-E61E-7E28-E752-4471B5F095ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Blade.cs",
+              "DocumentMoniker": "C:\\Users\\mafru\\Fruit Ninja\\Assets\\Scripts\\Blade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blade.cs",
+              "ToolTip": "C:\\Users\\mafru\\Fruit Ninja\\Assets\\Scripts\\Blade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blade.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:14:59.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\Users\\mafru\\Fruit Ninja\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
               "ToolTip": "C:\\Users\\mafru\\Fruit Ninja\\Assets\\Scripts\\Spawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAADgAAABkAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAIBQwDgAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T22:14:57.085Z",
               "EditorCaption": ""
