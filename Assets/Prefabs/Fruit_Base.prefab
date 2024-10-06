@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5550383114458872547}
   - component: {fileID: 6687336653664617936}
   - component: {fileID: 2107064059214043263}
+  - component: {fileID: 7733421181708417542}
   m_Layer: 0
   m_Name: Fruit_Base
   m_TagString: Untagged
@@ -83,6 +84,20 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7733421181708417542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6040433865129976691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8cfe6110a0a0747bd1ba9c9edbd940, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whole: {fileID: 3115078747310505665}
+  sliced: {fileID: 3182700364639662789}
 --- !u!1001 &2371797006182469524
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -267,6 +282,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 11af390f7743dda43810c2ae7df4163a, type: 3}
   m_PrefabInstance: {fileID: 2371797006182469524}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3182700364639662789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 11af390f7743dda43810c2ae7df4163a, type: 3}
+  m_PrefabInstance: {fileID: 2371797006182469524}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2881057242298352528
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -327,5 +347,10 @@ PrefabInstance:
 --- !u!4 &2337697172620829819 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1828197d1b16a4a45aa4d29f777e267d, type: 3}
+  m_PrefabInstance: {fileID: 2881057242298352528}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3115078747310505665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1828197d1b16a4a45aa4d29f777e267d, type: 3}
   m_PrefabInstance: {fileID: 2881057242298352528}
   m_PrefabAsset: {fileID: 0}

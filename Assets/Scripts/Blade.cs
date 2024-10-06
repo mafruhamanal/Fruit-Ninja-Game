@@ -8,6 +8,7 @@ public class Blade : MonoBehaviour
     private Camera mainCamera;
     private bool slicing;
     private TrailRenderer bladeTrail;
+    public float sliceForce = 5f;
     public float minSliceVelocity = 0.01f;
 
     public Vector3 direction {  get; private set; }
